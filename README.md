@@ -1,16 +1,29 @@
-### Hi there 👋
+<div>
+  <p>
+    Hey 👋! I'm a software engineer who is passionate about exploring emerging technologies, always striving to expand the horizons of what's possible.
+  </p>
+  <p>
+    🛠️ Building the Future in Rust, Ruby & TypeScript! Data wizard with a knack for elegant solutions. 
+  </p>
+  <p>
+    🚢 Navigating Polkadot seas with substrate expertise. 
+  </p>
+  <p>
+    📐 CAD Modeling, I manifest ideas into existence.
+  </p>
+</div>
 
-<!--
-**DanHenton/DanHenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>Skills 🔥</h2>
+  <img src="https://skillicons.dev/icons?i=apollo,aws,cpp,docker,elixir,firebase,gcp,github,graphql,ipfs,js,kubernetes,linux,neovim,nginx,nodejs,postgres,postman,py,rails,redis,ruby,rust,solidity,ts,unity,vim,vite,&perline=14"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>Links 🔗</h2>
+  <a href="https://www.linkedin.com/in/danhenton">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/DanHenton">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</div>
