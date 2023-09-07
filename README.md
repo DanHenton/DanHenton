@@ -1,4 +1,5 @@
 <div>
+  <img src="./public/DanHenton.png" title="Dan Henton Software Engineer" alt="Dan Henton" />
   <p>
     Hey 👋! I'm a software engineer who is passionate about exploring emerging technologies, always striving to expand the horizons of what's possible.
   </p>
